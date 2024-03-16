@@ -59,8 +59,8 @@ Passionate about uncovering insights and solving problems through data analysis.
 <h3 align="left">💬 Contact </h3>
 <div align="left">
 
+  <div align="left">
   <a href="https://so-coding.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://so-coding.tistory.com"/></a>
-
   <a href="mailto:nata0919@likelion.org"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=nata0919@likelion.org"/></a>
 </div>
 <br>
