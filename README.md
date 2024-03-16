@@ -34,22 +34,22 @@ Passionate about uncovering insights and solving problems through data analysis.
 <div align="left">
 
   <div align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/R-276DC3.svg?style=flat&logo=R&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=flat&logo=scikitlearn&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3.svg?style=flat&logo=R&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=flat&logo=scikitlearn&logoColor=white" />
 
 </div>
 
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=flat&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat&logo=Matplotlib&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=OpenCV&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=flat&logo=Matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=OpenCV&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white" />
 
 
 </div>
