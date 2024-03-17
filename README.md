@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h3 align="left">​🧩​ About Me </h3>
 👋 Hi there, I’m Seono Lee!<br>
 <br>
-Passionate about uncovering insights and solving problems through data analysis. <br>Skilled in Python and SQL for data manipulation and analysis. Interested in machine learning and natural language processing techniques.<br>Eager to learn and Experienced in collaborating on various team projects, gaining practical skills. <br>Always exploring the latest tools and technologies for data-driven solutions.
+Passionate about uncovering insights and solving problems through data analysis. <br>Skilled in Python and SQL for data manipulation and analysis. Interested in machine learning and natural language processing techniques. Eager to learn and Experienced in collaborating on various team projects, gaining practical skills. <br>Always exploring the latest tools and technologies for data-driven solutions.
 
 
 </div>
