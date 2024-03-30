@@ -36,9 +36,9 @@ Passionate about uncovering insights and solving problems through data analysis.
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3.svg?style=flat&logo=R&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=flat&logo=Tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=flat&logo=Tableau&logoColor=white" />
 
 </div>
 
