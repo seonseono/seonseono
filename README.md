@@ -39,13 +39,13 @@ Passionate about uncovering insights and solving problems through data analysis.
   <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=flat&logo=Tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=HTML&logoColor=white" />
 
 </div>
 
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=Django&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=HTML&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=OpenCV&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white" />
 
