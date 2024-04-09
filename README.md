@@ -44,7 +44,8 @@ Passionate about uncovering insights and solving problems through data analysis.
 
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=Slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=Django&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=HTML&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat&logo=OpenCV&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white" />
 
