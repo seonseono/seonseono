@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 Passionate about uncovering insights and solving problems through data analysis. <br>Skilled in Python and SQL for data manipulation and analysis. Interested in machine learning and natural language processing techniques. Eager to learn and Experienced in collaborating on various team projects, gaining practical skills. <br>Always exploring the latest tools and technologies for data-driven solutions.
 
 
-</div>
 <br>
 <br>
   
@@ -60,6 +59,7 @@ Passionate about uncovering insights and solving problems through data analysis.
   <div align="left">
   <a href="https://so-coding.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white&link=https://so-coding.tistory.com"/></a>
   <a href="mailto:seono.lee235@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=seono.lee235@gmail.com"/></a>
+</div>
 </div>
 <br>
 <br>
